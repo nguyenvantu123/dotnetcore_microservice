@@ -1,0 +1,17 @@
+/Volumes/Dev/Actio/Actio.Api/Actio.Api/bin/Debug/netcoreapp2.2/Actio.Api.deps.json
+/Volumes/Dev/Actio/Actio.Api/Actio.Api/bin/Debug/netcoreapp2.2/Actio.Api.runtimeconfig.json
+/Volumes/Dev/Actio/Actio.Api/Actio.Api/bin/Debug/netcoreapp2.2/Actio.Api.runtimeconfig.dev.json
+/Volumes/Dev/Actio/Actio.Api/Actio.Api/bin/Debug/netcoreapp2.2/Actio.Api.dll
+/Volumes/Dev/Actio/Actio.Api/Actio.Api/bin/Debug/netcoreapp2.2/Actio.Api.pdb
+/Volumes/Dev/Actio/Actio.Api/Actio.Api/bin/Debug/netcoreapp2.2/Actio.Common.dll
+/Volumes/Dev/Actio/Actio.Api/Actio.Api/bin/Debug/netcoreapp2.2/Actio.Common.pdb
+/Volumes/Dev/Actio/Actio.Api/Actio.Api/obj/Debug/netcoreapp2.2/Actio.Api.csprojAssemblyReference.cache
+/Volumes/Dev/Actio/Actio.Api/Actio.Api/obj/Debug/netcoreapp2.2/Actio.Api.csproj.CoreCompileInputs.cache
+/Volumes/Dev/Actio/Actio.Api/Actio.Api/obj/Debug/netcoreapp2.2/Actio.Api.RazorAssemblyInfo.cache
+/Volumes/Dev/Actio/Actio.Api/Actio.Api/obj/Debug/netcoreapp2.2/Actio.Api.RazorAssemblyInfo.cs
+/Volumes/Dev/Actio/Actio.Api/Actio.Api/obj/Debug/netcoreapp2.2/Actio.Api.AssemblyInfoInputs.cache
+/Volumes/Dev/Actio/Actio.Api/Actio.Api/obj/Debug/netcoreapp2.2/Actio.Api.AssemblyInfo.cs
+/Volumes/Dev/Actio/Actio.Api/Actio.Api/obj/Debug/netcoreapp2.2/Actio.Api.RazorTargetAssemblyInfo.cache
+/Volumes/Dev/Actio/Actio.Api/Actio.Api/obj/Debug/netcoreapp2.2/Actio.Api.csproj.CopyComplete
+/Volumes/Dev/Actio/Actio.Api/Actio.Api/obj/Debug/netcoreapp2.2/Actio.Api.dll
+/Volumes/Dev/Actio/Actio.Api/Actio.Api/obj/Debug/netcoreapp2.2/Actio.Api.pdb
